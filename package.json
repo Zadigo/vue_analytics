@@ -1,0 +1,9 @@
+{
+    "name": "@zadigo/vue_analytics",
+    "version": "1.0.0",
+    "description": "Implements analytics functions for a Vue application",
+    "main": "index.js",
+    "author": "John Pendenquee",
+    "license": "MIT",
+    "dependencies": {}
+}
