@@ -3,7 +3,21 @@
     "version": "1.0.0",
     "description": "Implements analytics functions for a Vue application",
     "main": "index.js",
-    "author": "John Pendenquee",
     "license": "MIT",
-    "dependencies": {}
+    "dependencies": {
+
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Zadigo/vue_analytics"
+    },
+    "keywords": [
+        "vue",
+        "vuejs",
+        "analytics",
+        "plugin",
+        "vue-plugin",
+        "google-analytics"
+    ],
+    "author": "John Pendenque <pendenquejohn@gmail.com>"
 }
